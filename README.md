@@ -1,0 +1,1 @@
+Script for å sette opp tool i ArcGIS som benytter raster lag, kronedekning og tresort, fra SR16-raster datasettet for å finne skog som har innvirkning på skred. Også skog i potensielle løsneområder blir produsert som egen fil. Outputs er shapefiler og rasterlag blir opprettet i utregningen.
